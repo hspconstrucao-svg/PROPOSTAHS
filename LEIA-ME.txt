@@ -1,0 +1,6 @@
+PUBLICAR NO GITHUB PAGES
+1. Crie um repositório no GitHub (ex.: propostas-hs).
+2. Envie index.html e .nojekyll para a RAIZ do repositório (Add file > Upload files).
+3. Settings > Pages > Source: "Deploy from a branch" > Branch: main, pasta / (root) > Save.
+4. Aguarde 1-2 minutos e abra https://SEU-USUARIO.github.io/propostas-hs/
+Netlify: arraste a pasta inteira em app.netlify.com/drop.
